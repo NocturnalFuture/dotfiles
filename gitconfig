@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = markus.adam.tomczyk@gmail.com
+	name = Adam Tomczyk
